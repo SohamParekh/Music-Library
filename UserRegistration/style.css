@@ -1,0 +1,29 @@
+body{
+    background-color: #ff4c68;
+	
+	background-position: top;
+	margin-top: 150px;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+}
+.login-box{
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+}
+
+.login-left{
+	margin-top:60px;
+	background: rgba(211,211,211,0.5);
+	padding: 30px;
+}
+.login-right{
+	margin-top:60px;
+	background: #fff;
+	padding: 30px;
+}
+.form-control{
+	background-color: transparent important;
+ }
+ 
